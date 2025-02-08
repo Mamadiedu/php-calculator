@@ -32,4 +32,5 @@ Input = Expected Output
 8.	50% of 200= 100
 
 License
+
 This project is open-source. Feel free to modify and improve it!
