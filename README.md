@@ -17,7 +17,6 @@ Advanced mathematical functions:
 How It Works
 1.	Users input numbers and select operations using buttons.
 2.	The PHP script processes the input and returns results when the "=" button is clicked.
-3.	The following operations are supported:
 
 Testing the Calculator
 
