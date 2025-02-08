@@ -6,6 +6,7 @@ Basic arithmetic operations:
 2.	Subtraction (-)
 3.	Multiplication (*)
 4.	Division (/)
+
 Advanced mathematical functions:
 
 1.	Exponentiation (^)
